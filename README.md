@@ -19,7 +19,7 @@ The purpose of this project is to show you a demo of how a system like this can 
 <img src="https://github.com/pauldamsa/FaceX/blob/master/mysmile.png" height="500" width="500">
 
 ## General info
-The purpose of this project, as I said above, is to work on edge devices. Due to the low computational power of such devices I had to find a suitable model in order to make the inference on the edge. The model used can be found [HERE](https://arxiv.org/pdf/1909.13522.pdf). Also, the conversion of the model in TFLite version was mandatory for running the inference on the edge. 
+The purpose of this project, as I said above, is to work on edge devices. Due to the low computational power of such devices I had to find a suitable model in order to make the inference on the edge. The model used can be found [HERE](https://arxiv.org/pdf/1909.13522.pdf). Also, the conversion of the model in **TFLite** version was **mandatory** for running the inference on the edge. 
 
 The dataset used for training the model is [FER2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data). Applying data augmentation was necessary for increasing the model performance.
 
@@ -65,7 +65,7 @@ To-do list:
 Project is: _in progress_, because the purpose of the project was to get more knowledge about Edge Computing and ML tools. However, for more development on top of this project I think that this work is a good start point.
 
 ## Inspiration
-The project was built for improving my machine learning and data science skills. Also, the inspiration was brought by a very good friend of mine who has a in-depth vision in this field. 
+The project was built for improving my **machine learning** and **data science skills**. Also, the inspiration was brought by a very good friend of mine who has a in-depth vision in this field. 
 
 ## Contact
 
