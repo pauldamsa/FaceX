@@ -14,7 +14,7 @@ The purpose of this project is to show you a demo of how a system like this can 
 * [Contact](#contact)
 
 ## Demo
-![Example screenshot](./mysmile.png)
+![Example screenshot](./mysmile.png=500x500)
 
 ## Requirements
 * TensorFlow - version 2.2.0
