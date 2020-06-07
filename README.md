@@ -23,7 +23,9 @@ The purpose of this project, as I said above, is to work on edge devices. Due to
 
 The dataset used for training the model is [FER2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data). Applying data augmentation was necessary for increasing the model performance.
 
-In the **FaceX- research** you can find the jupyter notebooks which were used in the research environment. Also, you can find my analyse of FER2013 before and after data augmentation. In the [Training](https://github.com/pauldamsa/FaceX/blob/master/FaceX-%20research/Training/End-to-End%20Solution%20Facial%20expression%20recognition.ipynb) folder is the notebook for training. In the [FER2013 original and augmented analysis](https://github.com/pauldamsa/FaceX/tree/master/FaceX-%20research/analyzes/FER2013%20original%20and%20augmented%20analysis) folder are three notebooks where I did analysis of the dataset. The notebook from [model inference analysis](https://github.com/pauldamsa/FaceX/tree/master/FaceX-%20research/analyzes/model%20inference%20analysis) was used for analysing the performance of the model. Also, in the same package is the [performance tables](https://github.com/pauldamsa/FaceX/blob/master/FaceX-%20research/analyzes/model%20inference%20analysis/performance%20tables.html) file in which you can find the performance of the model. 
+In the **FaceX- research** directory you can find the jupyter notebooks which were used in the research environment. Also, you can find my analyse of FER2013 before and after data augmentation. In the [Training](https://github.com/pauldamsa/FaceX/blob/master/FaceX-%20research/Training/End-to-End%20Solution%20Facial%20expression%20recognition.ipynb) folder is the notebook for training. In the [FER2013 original and augmented analysis](https://github.com/pauldamsa/FaceX/tree/master/FaceX-%20research/analyzes/FER2013%20original%20and%20augmented%20analysis) folder are three notebooks where I did analysis of the dataset. The notebook from [model inference analysis](https://github.com/pauldamsa/FaceX/tree/master/FaceX-%20research/analyzes/model%20inference%20analysis) was used for analysing the performance of the model. Also, in the same package is the [performance tables](https://github.com/pauldamsa/FaceX/blob/master/FaceX-%20research/analyzes/model%20inference%20analysis/performance%20tables.html) file in which you can find the performance of the model. 
+
+In the **FaceX- application** directory are stored the necessary packages for the application.
 
 ## Requirements
 * TensorFlow - version 2.2.0
@@ -46,6 +48,7 @@ The setup is simple, you need:
 ## How to run
 After you install the necessary packages you can run the app like this:
 `python app.py`
+The **app.py** file can be found in the **FaceX- application** directory.
 
 ## Features
 List of features ready and TODOs for future development
@@ -59,7 +62,7 @@ To-do list:
 ###### The application doesn't have some complex features, because it wasn't the purpose.
 
 ## Status
-Project is: _in progress_, because the purpose of the project was to get more knowledge about Edge Computing and ML tools. However, for more development this project is a good start point.
+Project is: _in progress_, because the purpose of the project was to get more knowledge about Edge Computing and ML tools. However, for more development on top of this project I think that this work is a good start point.
 
 ## Inspiration
 The project was built for improving my machine learning and data science skills. Also, the inspiration was brought by a very good friend of mine who has a in-depth vision in this field. 
