@@ -1,0 +1,337 @@
+emotion,age,race,recall,train images,validation images,test images,support
+Angry,(0-2),asian,0.5,58,9,10,77
+Angry,(0-2),indian,1.0,3,0,1,4
+Angry,(0-2),black,1.0,10,0,1,11
+Angry,(0-2),white,0.5806451439857483,274,22,31,327
+Angry,(0-2),middle eastern,1.0,26,2,2,30
+Angry,(0-2),latino hispanic,1.0,18,2,1,21
+Angry,(4-6),asian,0.20000000298023224,75,7,10,92
+Angry,(4-6),indian,0.0,5,3,0,8
+Angry,(4-6),black,0.0,20,2,0,22
+Angry,(4-6),white,0.4000000059604645,221,22,20,263
+Angry,(4-6),middle eastern,0.0,15,1,2,18
+Angry,(4-6),latino hispanic,0.6666666865348816,15,1,3,19
+Angry,(8-12),asian,0.125,36,5,8,49
+Angry,(8-12),indian,0.0,10,0,3,13
+Angry,(8-12),black,1.0,14,3,2,19
+Angry,(8-12),white,0.22727273404598236,188,27,22,237
+Angry,(8-12),middle eastern,0.5,16,2,4,22
+Angry,(8-12),latino hispanic,0.800000011920929,33,5,5,43
+Angry,(15-20),asian,0.25,27,3,4,34
+Angry,(15-20),indian,1.0,2,0,1,3
+Angry,(15-20),black,1.0,11,2,1,14
+Angry,(15-20),white,0.4615384638309479,120,12,13,145
+Angry,(15-20),middle eastern,1.0,14,1,2,17
+Angry,(15-20),latino hispanic,0.0,17,4,2,23
+Angry,(25-32),asian,0.4615384638309479,149,17,13,179
+Angry,(25-32),indian,0.46666666865348816,41,6,15,62
+Angry,(25-32),black,0.4000000059604645,104,11,10,125
+Angry,(25-32),white,0.527999997138977,1013,149,125,1287
+Angry,(25-32),middle eastern,0.3333333432674408,165,21,21,207
+Angry,(25-32),latino hispanic,0.5833333134651184,126,14,12,152
+Angry,(38-43),asian,0.4285714328289032,51,5,7,63
+Angry,(38-43),indian,0.3333333432674408,4,1,3,8
+Angry,(38-43),black,1.0,43,0,4,47
+Angry,(38-43),white,0.5614035129547119,475,48,57,580
+Angry,(38-43),middle eastern,0.4000000059604645,65,7,10,82
+Angry,(38-43),latino hispanic,0.1428571492433548,53,5,7,65
+Angry,(48-53),asian,1.0,20,1,2,23
+Angry,(48-53),indian,1.0,12,0,2,14
+Angry,(48-53),black,0.0,37,3,4,44
+Angry,(48-53),white,0.6428571343421936,202,21,28,251
+Angry,(48-53),middle eastern,0.3333333432674408,31,3,6,40
+Angry,(48-53),latino hispanic,1.0,19,3,2,24
+Angry,(60-100),asian,1.0,14,1,2,17
+Angry,(60-100),indian,0.0,5,0,0,5
+Angry,(60-100),black,1.0,16,4,1,21
+Angry,(60-100),white,0.25,96,10,8,114
+Angry,(60-100),middle eastern,1.0,22,0,2,24
+Angry,(60-100),latino hispanic,1.0,4,2,2,8
+Disgust,(0-2),asian,0.30000001192092896,38,3,10,51
+Disgust,(0-2),indian,0.0,4,0,0,4
+Disgust,(0-2),black,0.0,7,2,1,10
+Disgust,(0-2),white,0.6363636255264282,201,32,55,288
+Disgust,(0-2),middle eastern,0.20000000298023224,32,4,10,46
+Disgust,(0-2),latino hispanic,0.0,20,1,2,23
+Disgust,(4-6),asian,0.10000000149011612,39,7,10,56
+Disgust,(4-6),indian,0.0,5,0,0,5
+Disgust,(4-6),black,0.0,5,2,0,7
+Disgust,(4-6),white,0.6774193644523621,173,21,31,225
+Disgust,(4-6),middle eastern,0.0,13,1,0,14
+Disgust,(4-6),latino hispanic,0.0,15,2,0,17
+Disgust,(8-12),asian,0.2222222238779068,45,5,9,59
+Disgust,(8-12),indian,0.0,5,0,2,7
+Disgust,(8-12),black,0.0,4,1,3,8
+Disgust,(8-12),white,0.3529411852359772,377,39,17,433
+Disgust,(8-12),middle eastern,0.0,22,2,2,26
+Disgust,(8-12),latino hispanic,0.0,17,0,0,17
+Disgust,(15-20),asian,0.0,15,3,0,18
+Disgust,(15-20),indian,0.0,4,0,0,4
+Disgust,(15-20),black,0.0,0,1,0,1
+Disgust,(15-20),white,0.0,80,7,0,87
+Disgust,(15-20),middle eastern,0.0,13,0,3,16
+Disgust,(15-20),latino hispanic,0.0,13,0,1,14
+Disgust,(25-32),asian,0.34090909361839294,235,44,44,323
+Disgust,(25-32),indian,0.0,25,7,9,41
+Disgust,(25-32),black,0.125,23,5,16,44
+Disgust,(25-32),white,0.8083832263946533,1641,171,167,1979
+Disgust,(25-32),middle eastern,0.4878048896789551,198,33,41,272
+Disgust,(25-32),latino hispanic,0.25,238,24,24,286
+Disgust,(38-43),asian,0.125,39,14,8,61
+Disgust,(38-43),indian,0.0,20,0,1,21
+Disgust,(38-43),black,0.0,12,0,0,12
+Disgust,(38-43),white,0.7285714149475098,622,76,70,768
+Disgust,(38-43),middle eastern,0.4166666567325592,118,10,12,140
+Disgust,(38-43),latino hispanic,0.1666666716337204,44,9,6,59
+Disgust,(48-53),asian,0.25,38,13,12,63
+Disgust,(48-53),indian,0.0,9,2,1,12
+Disgust,(48-53),black,0.0,11,9,0,20
+Disgust,(48-53),white,0.6521739363670349,250,32,23,305
+Disgust,(48-53),middle eastern,0.1666666716337204,24,5,6,35
+Disgust,(48-53),latino hispanic,0.0,27,4,0,31
+Disgust,(60-100),asian,0.0,8,4,0,12
+Disgust,(60-100),indian,0.0,0,0,0,0
+Disgust,(60-100),black,0.0,3,6,0,9
+Disgust,(60-100),white,0.20000000298023224,38,7,5,50
+Disgust,(60-100),middle eastern,0.0,11,1,1,13
+Disgust,(60-100),latino hispanic,0.0,7,1,0,8
+Fear,(0-2),asian,0.6666666865348816,34,6,3,43
+Fear,(0-2),indian,0.0,1,0,0,1
+Fear,(0-2),black,0.0,10,0,0,10
+Fear,(0-2),white,0.23999999463558197,228,24,25,277
+Fear,(0-2),middle eastern,0.0,45,2,4,51
+Fear,(0-2),latino hispanic,0.0,20,4,3,27
+Fear,(4-6),asian,0.0,90,8,10,108
+Fear,(4-6),indian,0.0,11,1,1,13
+Fear,(4-6),black,0.3333333432674408,31,4,3,38
+Fear,(4-6),white,0.42500001192092896,280,41,40,361
+Fear,(4-6),middle eastern,0.0,29,3,2,34
+Fear,(4-6),latino hispanic,0.5,49,2,6,57
+Fear,(8-12),asian,0.2142857164144516,83,11,14,108
+Fear,(8-12),indian,0.0,13,0,2,15
+Fear,(8-12),black,0.0,40,5,5,50
+Fear,(8-12),white,0.3333333432674408,469,62,48,579
+Fear,(8-12),middle eastern,0.2857142984867096,48,4,7,59
+Fear,(8-12),latino hispanic,0.375,56,7,8,71
+Fear,(15-20),asian,0.0,42,5,4,51
+Fear,(15-20),indian,0.0,0,1,1,2
+Fear,(15-20),black,0.0,14,0,0,14
+Fear,(15-20),white,0.3333333432674408,193,19,18,230
+Fear,(15-20),middle eastern,0.6666666865348816,47,5,6,58
+Fear,(15-20),latino hispanic,0.75,21,4,4,29
+Fear,(25-32),asian,0.11764705926179886,213,24,34,271
+Fear,(25-32),indian,0.4000000059604645,38,4,10,52
+Fear,(25-32),black,0.0,99,1,11,111
+Fear,(25-32),white,0.4115044176578522,1871,213,226,2310
+Fear,(25-32),middle eastern,0.3333333432674408,235,26,33,294
+Fear,(25-32),latino hispanic,0.29629629850387573,195,20,27,242
+Fear,(38-43),asian,0.1818181872367859,62,5,11,78
+Fear,(38-43),indian,0.0,10,2,1,13
+Fear,(38-43),black,0.0,24,7,0,31
+Fear,(38-43),white,0.4000000059604645,524,73,50,647
+Fear,(38-43),middle eastern,0.20000000298023224,52,6,5,63
+Fear,(38-43),latino hispanic,0.20000000298023224,43,6,10,59
+Fear,(48-53),asian,0.0,21,4,4,29
+Fear,(48-53),indian,0.0,5,1,1,7
+Fear,(48-53),black,0.0,22,1,3,26
+Fear,(48-53),white,0.0555555559694767,170,20,18,208
+Fear,(48-53),middle eastern,0.0,29,2,1,32
+Fear,(48-53),latino hispanic,0.3333333432674408,9,2,3,14
+Fear,(60-100),asian,0.0,20,2,2,24
+Fear,(60-100),indian,0.0,2,0,0,2
+Fear,(60-100),black,0.0,11,1,1,13
+Fear,(60-100),white,0.3636363744735718,72,8,11,91
+Fear,(60-100),middle eastern,0.0,11,0,2,13
+Fear,(60-100),latino hispanic,0.0,5,0,0,5
+Happy,(0-2),asian,0.25,72,11,4,87
+Happy,(0-2),indian,0.0,1,2,2,5
+Happy,(0-2),black,0.0,12,1,0,13
+Happy,(0-2),white,0.5588235259056091,288,22,34,344
+Happy,(0-2),middle eastern,0.0,23,1,2,26
+Happy,(0-2),latino hispanic,0.0,9,3,0,12
+Happy,(4-6),asian,0.75,169,21,28,218
+Happy,(4-6),indian,0.0,11,0,2,13
+Happy,(4-6),black,0.3333333432674408,70,6,6,82
+Happy,(4-6),white,0.6666666865348816,432,51,60,543
+Happy,(4-6),middle eastern,0.0,25,1,1,27
+Happy,(4-6),latino hispanic,0.5,67,11,4,82
+Happy,(8-12),asian,0.42105263471603394,159,22,19,200
+Happy,(8-12),indian,0.5,21,5,4,30
+Happy,(8-12),black,0.4444444477558136,95,19,9,123
+Happy,(8-12),white,0.5932203531265259,560,83,59,702
+Happy,(8-12),middle eastern,0.3333333432674408,36,0,3,39
+Happy,(8-12),latino hispanic,0.5384615659713745,80,7,13,100
+Happy,(15-20),asian,0.0,48,5,4,57
+Happy,(15-20),indian,0.0,14,1,0,15
+Happy,(15-20),black,0.0,25,7,3,35
+Happy,(15-20),white,0.75,120,19,20,159
+Happy,(15-20),middle eastern,0.25,17,3,4,24
+Happy,(15-20),latino hispanic,0.3333333432674408,30,5,3,38
+Happy,(25-32),asian,0.6111111044883728,303,34,36,373
+Happy,(25-32),indian,0.0,78,12,6,96
+Happy,(25-32),black,0.6296296119689941,253,31,27,311
+Happy,(25-32),white,0.8171206116676331,1962,238,257,2457
+Happy,(25-32),middle eastern,0.5,207,20,26,253
+Happy,(25-32),latino hispanic,0.7419354915618896,278,29,31,338
+Happy,(38-43),asian,0.1428571492433548,50,4,7,61
+Happy,(38-43),indian,0.0,5,1,2,8
+Happy,(38-43),black,0.4000000059604645,14,4,5,23
+Happy,(38-43),white,0.7209302186965942,371,48,43,462
+Happy,(38-43),middle eastern,0.0,37,3,2,42
+Happy,(38-43),latino hispanic,0.0,32,4,3,39
+Happy,(48-53),asian,0.0,25,7,2,34
+Happy,(48-53),indian,0.0,8,1,0,9
+Happy,(48-53),black,0.5714285969734192,47,6,7,60
+Happy,(48-53),white,0.6666666865348816,162,19,18,199
+Happy,(48-53),middle eastern,0.0,17,1,0,18
+Happy,(48-53),latino hispanic,0.25,15,3,4,22
+Happy,(60-100),asian,0.0,21,2,1,24
+Happy,(60-100),indian,0.0,1,1,0,2
+Happy,(60-100),black,0.0,28,2,2,32
+Happy,(60-100),white,0.6666666865348816,107,16,15,138
+Happy,(60-100),middle eastern,0.0,10,1,2,13
+Happy,(60-100),latino hispanic,0.0,9,3,0,12
+Sad,(0-2),asian,0.0,66,8,7,81
+Sad,(0-2),indian,0.0,2,0,0,2
+Sad,(0-2),black,0.0,18,2,2,22
+Sad,(0-2),white,0.40740740299224854,245,38,27,310
+Sad,(0-2),middle eastern,0.0,28,3,5,36
+Sad,(0-2),latino hispanic,0.0,16,3,0,19
+Sad,(4-6),asian,0.5625,148,20,16,184
+Sad,(4-6),indian,0.0,10,2,1,13
+Sad,(4-6),black,0.20000000298023224,46,7,5,58
+Sad,(4-6),white,0.5121951103210449,360,54,41,455
+Sad,(4-6),middle eastern,0.4000000059604645,36,7,5,48
+Sad,(4-6),latino hispanic,0.0,44,6,1,51
+Sad,(8-12),asian,0.1111111119389534,117,20,18,155
+Sad,(8-12),indian,0.25,8,6,4,18
+Sad,(8-12),black,0.0,31,5,2,38
+Sad,(8-12),white,0.52173912525177,353,46,46,445
+Sad,(8-12),middle eastern,0.0,29,3,5,37
+Sad,(8-12),latino hispanic,0.5,44,4,8,56
+Sad,(15-20),asian,0.5,57,6,10,73
+Sad,(15-20),indian,0.0,9,3,1,13
+Sad,(15-20),black,0.0,16,1,1,18
+Sad,(15-20),white,0.5,195,26,18,239
+Sad,(15-20),middle eastern,0.3333333432674408,25,7,6,38
+Sad,(15-20),latino hispanic,0.0,36,7,1,44
+Sad,(25-32),asian,0.4137931168079376,247,38,29,314
+Sad,(25-32),indian,0.0,38,5,4,47
+Sad,(25-32),black,0.1875,117,16,16,149
+Sad,(25-32),white,0.5600000023841858,1183,154,150,1487
+Sad,(25-32),middle eastern,0.4761904776096344,159,12,21,192
+Sad,(25-32),latino hispanic,0.22727273404598236,151,21,22,194
+Sad,(38-43),asian,0.5714285969734192,49,6,7,62
+Sad,(38-43),indian,0.0,5,1,0,6
+Sad,(38-43),black,0.0,21,3,1,25
+Sad,(38-43),white,0.47058823704719543,436,51,51,538
+Sad,(38-43),middle eastern,0.0,51,7,7,65
+Sad,(38-43),latino hispanic,0.20000000298023224,40,5,5,50
+Sad,(48-53),asian,0.0,34,6,3,43
+Sad,(48-53),indian,0.0,3,1,0,4
+Sad,(48-53),black,0.0,18,3,2,23
+Sad,(48-53),white,0.6363636255264282,176,20,22,218
+Sad,(48-53),middle eastern,0.25,26,6,4,36
+Sad,(48-53),latino hispanic,0.0,12,1,2,15
+Sad,(60-100),asian,0.0,18,4,3,25
+Sad,(60-100),indian,0.0,3,0,0,3
+Sad,(60-100),black,0.0,14,0,2,16
+Sad,(60-100),white,0.1538461595773697,70,8,13,91
+Sad,(60-100),middle eastern,0.0,13,1,0,14
+Sad,(60-100),latino hispanic,0.0,7,0,0,7
+Surprise,(0-2),asian,0.25,63,8,8,79
+Surprise,(0-2),indian,0.0,4,0,1,5
+Surprise,(0-2),black,0.0,10,1,4,15
+Surprise,(0-2),white,0.4000000059604645,186,36,20,242
+Surprise,(0-2),middle eastern,0.0,3,2,1,6
+Surprise,(0-2),latino hispanic,0.0,14,2,4,20
+Surprise,(4-6),asian,0.0,61,8,3,72
+Surprise,(4-6),indian,0.0,1,0,0,1
+Surprise,(4-6),black,0.0,19,0,2,21
+Surprise,(4-6),white,0.5454545617103577,225,30,33,288
+Surprise,(4-6),middle eastern,0.0,1,0,3,4
+Surprise,(4-6),latino hispanic,0.0,15,1,1,17
+Surprise,(8-12),asian,0.375,100,10,16,126
+Surprise,(8-12),indian,0.0,4,1,2,7
+Surprise,(8-12),black,0.0,19,1,1,21
+Surprise,(8-12),white,0.7362637519836426,594,86,91,771
+Surprise,(8-12),middle eastern,0.4285714328289032,44,5,7,56
+Surprise,(8-12),latino hispanic,0.4444444477558136,88,14,9,111
+Surprise,(15-20),asian,0.6363636255264282,52,8,11,71
+Surprise,(15-20),indian,0.0,1,0,0,1
+Surprise,(15-20),black,0.0,12,0,1,13
+Surprise,(15-20),white,0.6538461446762085,214,38,26,278
+Surprise,(15-20),middle eastern,0.0,26,5,5,36
+Surprise,(15-20),latino hispanic,0.0,26,6,1,33
+Surprise,(25-32),asian,0.695652186870575,230,30,23,283
+Surprise,(25-32),indian,0.0,14,1,1,16
+Surprise,(25-32),black,0.5454545617103577,75,8,11,94
+Surprise,(25-32),white,0.7420814633369446,1834,220,221,2275
+Surprise,(25-32),middle eastern,0.23529411852359772,135,16,17,168
+Surprise,(25-32),latino hispanic,0.6000000238418579,178,20,25,223
+Surprise,(38-43),asian,0.5,33,8,4,45
+Surprise,(38-43),indian,0.0,2,0,0,2
+Surprise,(38-43),black,0.0,7,0,6,13
+Surprise,(38-43),white,0.699999988079071,276,26,30,332
+Surprise,(38-43),middle eastern,0.25,24,5,4,33
+Surprise,(38-43),latino hispanic,0.0,22,6,3,31
+Surprise,(48-53),asian,0.0,21,1,1,23
+Surprise,(48-53),indian,0.0,0,0,0,0
+Surprise,(48-53),black,0.0,3,0,1,4
+Surprise,(48-53),white,0.4285714328289032,82,6,14,102
+Surprise,(48-53),middle eastern,0.0,1,0,0,1
+Surprise,(48-53),latino hispanic,0.0,5,0,0,5
+Surprise,(60-100),asian,0.5,4,0,2,6
+Surprise,(60-100),indian,0.0,1,0,0,1
+Surprise,(60-100),black,0.0,2,0,0,2
+Surprise,(60-100),white,0.3333333432674408,32,6,3,41
+Surprise,(60-100),middle eastern,0.0,1,0,0,1
+Surprise,(60-100),latino hispanic,0.0,5,0,0,5
+Neutral,(0-2),asian,0.75,79,7,12,98
+Neutral,(0-2),indian,0.0,1,0,1,2
+Neutral,(0-2),black,0.3333333432674408,32,1,3,36
+Neutral,(0-2),white,0.30000001192092896,170,18,20,208
+Neutral,(0-2),middle eastern,0.0,15,1,1,17
+Neutral,(0-2),latino hispanic,0.0,9,1,4,14
+Neutral,(4-6),asian,0.5909090638160706,141,10,22,173
+Neutral,(4-6),indian,0.0,6,1,0,7
+Neutral,(4-6),black,0.6363636255264282,89,10,11,110
+Neutral,(4-6),white,0.4000000059604645,217,35,35,287
+Neutral,(4-6),middle eastern,0.0,15,1,1,17
+Neutral,(4-6),latino hispanic,0.6666666865348816,37,5,9,51
+Neutral,(8-12),asian,0.4285714328289032,141,15,21,177
+Neutral,(8-12),indian,0.0,16,3,3,22
+Neutral,(8-12),black,0.7142857313156128,131,18,28,177
+Neutral,(8-12),white,0.5600000023841858,261,26,25,312
+Neutral,(8-12),middle eastern,0.3333333432674408,24,1,3,28
+Neutral,(8-12),latino hispanic,0.125,39,9,8,56
+Neutral,(15-20),asian,0.523809552192688,81,14,21,116
+Neutral,(15-20),indian,0.0,15,0,1,16
+Neutral,(15-20),black,0.1666666716337204,63,12,6,81
+Neutral,(15-20),white,0.5357142686843872,203,21,28,252
+Neutral,(15-20),middle eastern,0.5,16,1,8,25
+Neutral,(15-20),latino hispanic,0.0,30,5,4,39
+Neutral,(25-32),asian,0.5609756112098694,365,46,41,452
+Neutral,(25-32),indian,0.0,40,0,2,42
+Neutral,(25-32),black,0.8055555820465088,356,47,36,439
+Neutral,(25-32),white,0.568965494632721,1176,155,116,1447
+Neutral,(25-32),middle eastern,0.5,147,13,18,178
+Neutral,(25-32),latino hispanic,0.692307710647583,181,27,26,234
+Neutral,(38-43),asian,0.5,65,8,6,79
+Neutral,(38-43),indian,0.0,11,0,1,12
+Neutral,(38-43),black,0.1666666716337204,54,7,6,67
+Neutral,(38-43),white,0.4545454680919647,338,47,44,429
+Neutral,(38-43),middle eastern,0.1428571492433548,56,7,7,70
+Neutral,(38-43),latino hispanic,0.3333333432674408,30,5,3,38
+Neutral,(48-53),asian,0.0,22,2,1,25
+Neutral,(48-53),indian,0.0,8,0,2,10
+Neutral,(48-53),black,0.5,29,0,8,37
+Neutral,(48-53),white,0.20000000298023224,103,10,10,123
+Neutral,(48-53),middle eastern,0.0,20,2,2,24
+Neutral,(48-53),latino hispanic,0.0,11,1,1,13
+Neutral,(60-100),asian,0.5,19,4,2,25
+Neutral,(60-100),indian,0.0,3,0,0,3
+Neutral,(60-100),black,0.4285714328289032,16,1,7,24
+Neutral,(60-100),white,0.30000001192092896,64,10,10,84
+Neutral,(60-100),middle eastern,0.0,11,0,1,12
+Neutral,(60-100),latino hispanic,0.0,9,0,1,10
