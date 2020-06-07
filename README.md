@@ -5,7 +5,7 @@ FaceX is a `personal project` that allows you to get information about `the emot
 The purpose of this project is to show you a demo of how a system like this can be used. The project is intended to work on the edge devices like Raspberry Pi 4 and others.
 
 ## Table of contents
-* [How it works](#how it works)
+* [Demo](#demo)
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Features](#features)
@@ -13,7 +13,7 @@ The purpose of this project is to show you a demo of how a system like this can 
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## How it works
+## Demo
 ![Example screenshot](./img/screenshot.png)
 
 ## Requirements
