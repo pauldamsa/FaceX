@@ -1,6 +1,6 @@
 # FaceX - Edge Computing
 
-FaceX is a `personal project` that allows you to get information about `the emotions of people` based on `their face`.
+FaceX is a `personal project` that allows you to get information about `people emotions` based on `their face`.
 
 The purpose of this project is to show you a demo of how a system like this can be used. The project is intended to work on the edge devices like Raspberry Pi 4 and others.
 
