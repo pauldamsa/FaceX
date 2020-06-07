@@ -14,7 +14,7 @@ The purpose of this project is to show you a demo of how a system like this can 
 * [Contact](#contact)
 
 ## Demo
-![Example screenshot](./mysmile.png =500x500)
+<img src="https://github.com/pauldamsa/FaceX/blob/master/mysmile.png" height="500" width="500">
 
 ## Requirements
 * TensorFlow - version 2.2.0
