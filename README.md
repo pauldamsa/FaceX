@@ -13,7 +13,7 @@ The purpose of this project is to show you a demo of how a system like this can 
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## Screenshots
+## How it works
 ![Example screenshot](./img/screenshot.png)
 
 ## Requirements
