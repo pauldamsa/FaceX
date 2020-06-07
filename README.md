@@ -5,7 +5,7 @@ FaceX is a `personal project` that allows you to get information about `the emot
 The purpose of this project is to show you a demo of how a system like this can be used. The project is intended to work on the edge devices like Raspberry Pi 4 and others.
 
 ## Table of contents
-* [Screenshots](#screenshots)
+* [How it works](#how it works)
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Features](#features)
@@ -43,7 +43,7 @@ To-do list:
 * Get relevant data for trainig
 * Get quality data 
 
-# The application doesn't have some complex features, because it wasn't the purpose.
+###### The application doesn't have some complex features, because it wasn't the purpose.
 
 ## Status
 Project is: _in progress_, because the purpose of the project was to get more knowledge about Edge Computing and ML tools. However, for more development this project is a good start point.
