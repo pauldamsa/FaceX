@@ -26,6 +26,7 @@ The purpose of this project is to show you a demo of how a system like this can 
 * pandas - version 1.0.4
 * plotly - version 4.8.1
 * numpy - version 1.18.4
+* imutils - version 0.5.3
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
