@@ -22,6 +22,9 @@ The purpose of this project is to show you a demo of how a system like this can 
 The purpose of this project, as I said above, is to work on edge devices. Due to the low computational power of such devices I had to find a suitable model in order to make the inference on the edge. The model used can be found [HERE](https://arxiv.org/pdf/1909.13522.pdf). Also, the conversion of the model in TFLite version was mandatory for running the inference on the edge. 
 
 The dataset used for training the model is [FER2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data). Applying data augmentation was necessary for increasing the model performance.
+
+In the **FaceX- research** you can find the jupyter notebooks which were used in the research environment. Also, you can find my analyse of FER2013 before and after data augmentation. In the [Training](https://github.com/pauldamsa/FaceX/blob/master/FaceX-%20research/Training/End-to-End%20Solution%20Facial%20expression%20recognition.ipynb) folder is the notebook for training. In the [FER2013 original and augmented analysis](https://github.com/pauldamsa/FaceX/tree/master/FaceX-%20research/analyzes/FER2013%20original%20and%20augmented%20analysis) folder are three notebooks where I did analysis of the dataset. The notebook from [model inference analysis](https://github.com/pauldamsa/FaceX/tree/master/FaceX-%20research/analyzes/model%20inference%20analysis) was used for analysing the performance of the model. Also, in the same package is [performance tables](https://github.com/pauldamsa/FaceX/blob/master/FaceX-%20research/analyzes/model%20inference%20analysis/performance%20tables.html) file in which you can find the performance of the model. 
+
 ## Requirements
 * TensorFlow - version 2.2.0
 * OpenCV - version 4.1.2
