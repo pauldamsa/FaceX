@@ -56,7 +56,7 @@ List of features ready and TODOs for future development
 
 To-do list:
 * Improve the performance of the model
-* Get relevant data for trainig
+* Get relevant data for training
 * Get quality data 
 
 ###### The application doesn't have some complex features, because it wasn't the purpose.
